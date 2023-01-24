@@ -16,8 +16,8 @@ export default function Home() {
           <h1 className='title'>Financial Analysis and Risk Management Student Association</h1>
           <div className='socials'>
             <SocialIcon classname='icons' url="https://www.facebook.com/UWFARMSA/" network="facebook" style={{ margin: 5}} />
-            <SocialIcon classname='icons' url="www.google.com" network="instagram" style={{ margin: 5}}/>
-            <SocialIcon classname='icons' url="www.google.com" network="discord" style={{ margin: 5}}/>
+            <SocialIcon classname='icons' url="https://www.instagram.com/uw.farmsa/" network="instagram" style={{ margin: 5}}/>
+            <SocialIcon classname='icons' url="https://discord.com/" network="discord" style={{ margin: 5}}/>
             <SocialIcon classname='icons' url="https://twitter.com/uwfarmsa?lang=en" network="twitter" style={{ margin: 5}}/>
             <SocialIcon classname='icons' url="https://www.linkedin.com/company/uwfarmsa/" network="linkedin" style={{ margin: 5}}/>
           </div>
