@@ -12,7 +12,7 @@ export default function Home() {
       <div className='home' >
         
         <div className='content'>
-          <img src={farmsaLogo} alt="BigCo Inc. logo"/>
+          <img src={farmsaLogo} alt="Farmsa Logo"/>
           <h1 className='title'>Financial Analysis and Risk Management Student Association</h1>
           <div className='socials'>
             <SocialIcon classname='icons' url="https://www.facebook.com/UWFARMSA/" network="facebook" style={{ margin: 5}} />
