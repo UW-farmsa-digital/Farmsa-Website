@@ -1,8 +1,10 @@
 .team {
+    background-image: url(./images/background.jpg);
     background-color: white;
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
+    height: 150vh;
     width: 100%;
 }
 
