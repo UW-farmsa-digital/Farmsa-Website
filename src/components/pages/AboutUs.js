@@ -29,10 +29,10 @@ export default function AboutUs() {
       </div>
       <div class="about-row">
         <ol>
-          <li><b>Social Events</b> Recruitment Events, End of Term Social, General Meetings, Networking Receptions</li>
-          <li><b>Office Hour Consulting</b> Executive members are available during their office hours to talk about course selection, and to hear your suggestions or concerns on the progress of the program or the association.</li>
-          <li><b>Speaker Sessions</b> CFA and PRM speakers are invited to talk about their experiences as a CFA or PRM.</li>
-          <li><b>Study Resources</b> Study materials for the CFA examination as well as monthly Financial Posts are available in the office.</li>
+          <li><b>Social Events:</b> Recruitment Events, End of Term Social, General Meetings, Networking Receptions</li>
+          <li><b>Office Hour Consulting:</b> Executive members are available during their office hours to talk about course selection, and to hear your suggestions or concerns on the progress of the program or the association.</li>
+          <li><b>Speaker Sessions:</b> CFA and PRM speakers are invited to talk about their experiences as a CFA or PRM.</li>
+          <li><b>Study Resources:</b> Study materials for the CFA examination as well as monthly Financial Posts are available in the office.</li>
         </ol>
       </div>
     </>
