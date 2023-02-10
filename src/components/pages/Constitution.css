@@ -9,6 +9,7 @@
 
 .constitution-row h1 {
     width: 100%;
+    font-family: 'Dosis';
     text-align: center;
     font-size: 3.5em;
     color: #1888ff;
@@ -20,7 +21,7 @@
     text-align: left;
     font-size: 2em;
     color: #1888ff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Dosis';
 }
 
 .constitution-row h3 {
@@ -31,19 +32,22 @@
     text-align: left;
     font-size: 20px;
     color:rgb(173, 172, 172);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat';
+    font-weight: 100;
 }
 
 .constitution-row ol {
     margin-left: 5%;
     text-align: left;  
     color: rgb(173, 172, 172);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat';
+    font-weight: 100;
 }
 
 .constitution-row li {
     text-align: left;
     color: rgb(173, 172, 172);
     font-size: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat';
+    font-weight: 100;
 }
