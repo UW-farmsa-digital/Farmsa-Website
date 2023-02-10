@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3307f095.css",
-    "main.js": "/static/js/main.c6950cd5.js",
-    "static/media/farmsaLogo.png": "/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
-    "static/media/akshat.jpg": "/static/media/akshat.caa7d1946c8af835042d.jpg",
-    "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
-    "static/media/background.jpg": "/static/media/background.be83034d1738310d3157.jpg",
-    "index.html": "/index.html",
-    "main.3307f095.css.map": "/static/css/main.3307f095.css.map",
-    "main.c6950cd5.js.map": "/static/js/main.c6950cd5.js.map"
+    "main.css": "/Farmsa-Website/static/css/main.3307f095.css",
+    "main.js": "/Farmsa-Website/static/js/main.6987d88a.js",
+    "static/media/farmsaLogo.png": "/Farmsa-Website/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
+    "static/media/akshat.jpg": "/Farmsa-Website/static/media/akshat.caa7d1946c8af835042d.jpg",
+    "static/media/farmsaBack.webp": "/Farmsa-Website/static/media/farmsaBack.4680a6847c4b56156266.webp",
+    "static/media/background.jpg": "/Farmsa-Website/static/media/background.be83034d1738310d3157.jpg",
+    "index.html": "/Farmsa-Website/index.html",
+    "main.3307f095.css.map": "/Farmsa-Website/static/css/main.3307f095.css.map",
+    "main.6987d88a.js.map": "/Farmsa-Website/static/js/main.6987d88a.js.map"
   },
   "entrypoints": [
     "static/css/main.3307f095.css",
-    "static/js/main.c6950cd5.js"
+    "static/js/main.6987d88a.js"
   ]
 }
