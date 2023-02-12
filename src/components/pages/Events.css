@@ -1,0 +1,91 @@
+.events-content {
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    width: 100%;
+    height: auto;
+    background-color: #2C528C;
+}
+
+.events-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2em 1em;
+    text-align: center;
+}
+
+.events-row h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 3.5em;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+.events-column {
+    display: flex;
+    width: 100%;
+    padding: 0 1em;
+}
+
+.events-card {
+    box-shadow: 0 0 2.4em rgba(25, 0, 58, 0.1);
+    padding: 5em 1em;
+    border-radius: 0.6em;
+    color: #1f003b;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: #ffffff;
+    margin-top: 4%;
+    display: flex;
+}
+
+.events-card .events-img-container {
+    width: 40%;
+    height: 100%;
+}
+
+.events-card img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+    height: 80%;
+    
+}
+
+.events-card .text{
+    width: 55%;
+    margin-left: 3%;
+    height: 100%;
+}
+
+.events-card .text h2{
+    color: #1888ff;
+    font-size: 35px;
+    font-family: 'Montserrat';
+}
+
+.events-card .text h3{
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 100;
+    margin-top: 5%;
+}
+
+.events-card:hover {
+    background: linear-gradient(white);
+    color: #ffffff;
+}
+.events-card:hover .events-img-container {
+    transform: scale(1.15);
+}
+
+.events-card:hover h3{
+    transform: scale(1.15);
+    color: black;
+}
+
+.events-card:hover h2{
+    transform: scale(1.15);
+}
