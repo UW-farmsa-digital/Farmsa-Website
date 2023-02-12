@@ -1,0 +1,53 @@
+.constitution-row {
+    background-color: black;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2em 1em;
+    text-align: center;
+}
+
+.constitution-row h1 {
+    width: 100%;
+    font-family: 'Dosis';
+    text-align: center;
+    font-size: 3.5em;
+    color: #1888ff;
+}
+
+.constitution-row h2 {
+    margin-top: 1%;
+    width: 100%;
+    text-align: left;
+    font-size: 2em;
+    color: #1888ff;
+    font-family: 'Dosis';
+}
+
+.constitution-row h3 {
+    width: 90%;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: left;
+    font-size: 20px;
+    color:rgb(173, 172, 172);
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+
+.constitution-row ol {
+    margin-left: 5%;
+    text-align: left;  
+    color: rgb(173, 172, 172);
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+
+.constitution-row li {
+    text-align: left;
+    color: rgb(173, 172, 172);
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 100;
+}

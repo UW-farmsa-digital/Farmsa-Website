@@ -47,7 +47,7 @@ export default function Team() {
                 <img src={profile} />
               </div>
               <h3>Akshat 3.0</h3>
-              <p>Dumbass</p>
+              <p>Some Position</p>
               <div class="icons">
                 <a href="#">
                   <i class="fab fa-linkedin"></i>
