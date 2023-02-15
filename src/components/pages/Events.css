@@ -3,7 +3,32 @@
     background-repeat: repeat-x;
     width: 100%;
     height: auto;
-    background-color: #2C528C;
+    background-color: white;
+}
+
+.events-row-title {
+    background-color: white;
+    background-image: url(./images/background4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    margin-bottom: 2%;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+}
+
+.events-row-title h1 {
+    width: 100%;
+    text-align: center;
+    color: #1888ff;
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 50px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .events-row {
@@ -13,11 +38,11 @@
     text-align: center;
 }
 
-.events-row h1 {
+.events-row h2 {
     width: 100%;
     text-align: center;
     font-size: 3.5em;
-    color: white;
+    color: #1888ff;
     font-family: 'Montserrat';
 }
 
@@ -32,7 +57,6 @@
     padding: 5em 1em;
     border-radius: 0.6em;
     color: #1f003b;
-    cursor: pointer;
     transition: 0.3s;
     background-color: #ffffff;
     margin-top: 4%;
@@ -58,13 +82,13 @@
     height: 100%;
 }
 
-.events-card .text h2{
+.events-card .text h3{
     color: #1888ff;
     font-size: 35px;
     font-family: 'Montserrat';
 }
 
-.events-card .text h3{
+.events-card .text h4{
     color: black;
     text-align: left;
     font-size: 20px;
@@ -73,6 +97,24 @@
     margin-top: 5%;
 }
 
+.events-card .text .register {
+    height: 100px;
+    margin-top: 5%;
+}
+
+.events-card .text .register a{
+    border: 1px solid black;
+    background-color: white;
+    padding: 3% 6%;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+    margin:0 auto;
+    font-size: 22px;
+    color: black;
+}
+
+/*
 .events-card:hover {
     background: linear-gradient(white);
     color: #ffffff;
@@ -81,11 +123,27 @@
     transform: scale(1.15);
 }
 
-.events-card:hover h3{
+.events-card:hover h4{
     transform: scale(1.15);
     color: black;
 }
 
-.events-card:hover h2{
+.events-card:hover h3{
     transform: scale(1.15);
+}
+*/
+
+@media screen and (max-width: 800px) {
+    .events-card .events-img-container {
+        width: 0%;
+        height: 0%;
+    }
+    .events-card img {
+        display: none;
+    }
+    .events-card .text{
+        width: 100%;
+        margin-left: 3%;
+        height: 100%;
+    }
 }

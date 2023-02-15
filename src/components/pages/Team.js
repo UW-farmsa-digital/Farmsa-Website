@@ -6,8 +6,8 @@ export default function Team() {
   return (
     <>
       <div className='content'>
-        <div class="row">
-          <h1>Our Team</h1>
+        <div class="team-row-title">
+          <h1>OUR TEAM</h1>
         </div>
         <div class="row">
 
