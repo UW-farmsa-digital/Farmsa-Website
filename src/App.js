@@ -15,13 +15,13 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route exact path='/' element={<Home/>}/>
-        <Route exact path='/about-us' element={<AboutUs/>} />
-        <Route exact path='/contact-us' element={<ContactUs/>} />
-        <Route exact path='/constitution' element={<Constitution/>} />
-        <Route exact path='/events' element={<Events/>} />
-        <Route exact path='/resources' element={<Resources/>} />
-        <Route exact path='/team' element={<Team/>} />
+        <Route exact path='/Farmsa-Website/' element={<Home/>}/>
+        <Route exact path='/Farmsa-Website/about-us' element={<AboutUs/>} />
+        <Route exact path='/Farmsa-Website/contact-us' element={<ContactUs/>} />
+        <Route exact path='/Farmsa-Website/constitution' element={<Constitution/>} />
+        <Route exact path='/Farmsa-Website/events' element={<Events/>} />
+        <Route exact path='/Farmsa-Website/resources' element={<Resources/>} />
+        <Route exact path='/Farmsa-Website/team' element={<Team/>} />
       </Routes>
     </Router>
   );
