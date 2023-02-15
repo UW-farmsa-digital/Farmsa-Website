@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar'
+import { HashRouter } from 'react-router-dom';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Home from './components/pages/Home';
 import AboutUs from './components/pages/AboutUs';
@@ -12,18 +13,18 @@ import Team from './components/pages/Team';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Navbar />
       <Routes>
-        <Route exact path='/Farmsa-Website/' element={<Home/>}/>
-        <Route exact path='/Farmsa-Website/about-us' element={<AboutUs/>} />
-        <Route exact path='/Farmsa-Website/contact-us' element={<ContactUs/>} />
-        <Route exact path='/Farmsa-Website/constitution' element={<Constitution/>} />
-        <Route exact path='/Farmsa-Website/events' element={<Events/>} />
-        <Route exact path='/Farmsa-Website/resources' element={<Resources/>} />
-        <Route exact path='/Farmsa-Website/team' element={<Team/>} />
+        <Route exact path='/' element={<Home/>}/>
+        <Route exact path='/about-us' element={<AboutUs/>} />
+        <Route exact path='/contact-us' element={<ContactUs/>} />
+        <Route exact path='/constitution' element={<Constitution/>} />
+        <Route exact path='/events' element={<Events/>} />
+        <Route exact path='/resources' element={<Resources/>} />
+        <Route exact path='/team' element={<Team/>} />
       </Routes>
-    </Router>
+    </HashRouter>
   );
 }
 
