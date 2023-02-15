@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Farmsa-Website/static/css/main.903d7d8e.css",
-    "main.js": "/Farmsa-Website/static/js/main.f65c92f4.js",
-    "static/media/May2021.pdf": "/Farmsa-Website/static/media/May2021.2d6ac8d63d2deca15f85.pdf",
-    "static/media/February-2022-Newsletter.pdf": "/Farmsa-Website/static/media/February-2022-Newsletter.0a6eb950d5aacd5290de.pdf",
-    "static/media/September2021.pdf": "/Farmsa-Website/static/media/September2021.15eac32157da6dc7a62f.pdf",
-    "static/media/February2021.pdf": "/Farmsa-Website/static/media/February2021.ff3aec28b97b48787182.pdf",
-    "static/media/October2021.pdf": "/Farmsa-Website/static/media/October2021.63cab9720496db160084.pdf",
-    "static/media/January2021.pdf": "/Farmsa-Website/static/media/January2021.f293d808dc8a4d137182.pdf",
-    "static/media/January-2022-Newsletter.pdf": "/Farmsa-Website/static/media/January-2022-Newsletter.9302a59dad669be18abe.pdf",
-    "static/media/May-2022-Newsletter.pdf": "/Farmsa-Website/static/media/May-2022-Newsletter.264756a6a3beafee9eb8.pdf",
-    "static/media/goals.jpg": "/Farmsa-Website/static/media/goals.0982fd48bd7b687da71e.jpg",
-    "static/media/farmsaLogo.png": "/Farmsa-Website/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
-    "static/media/resumeCritique.webp": "/Farmsa-Website/static/media/resumeCritique.5bfb9285412869ae22ce.webp",
-    "static/media/akshat.jpg": "/Farmsa-Website/static/media/akshat.caa7d1946c8af835042d.jpg",
-    "static/media/farmsaBack.webp": "/Farmsa-Website/static/media/farmsaBack.4680a6847c4b56156266.webp",
-    "static/media/background.jpg": "/Farmsa-Website/static/media/background.be83034d1738310d3157.jpg",
-    "index.html": "/Farmsa-Website/index.html",
-    "main.903d7d8e.css.map": "/Farmsa-Website/static/css/main.903d7d8e.css.map",
-    "main.f65c92f4.js.map": "/Farmsa-Website/static/js/main.f65c92f4.js.map"
+    "main.css": "/static/css/main.6ced06bd.css",
+    "main.js": "/static/js/main.2b841449.js",
+    "static/media/May2021.pdf": "/static/media/May2021.2d6ac8d63d2deca15f85.pdf",
+    "static/media/February-2022-Newsletter.pdf": "/static/media/February-2022-Newsletter.0a6eb950d5aacd5290de.pdf",
+    "static/media/September2021.pdf": "/static/media/September2021.15eac32157da6dc7a62f.pdf",
+    "static/media/February2021.pdf": "/static/media/February2021.ff3aec28b97b48787182.pdf",
+    "static/media/October2021.pdf": "/static/media/October2021.63cab9720496db160084.pdf",
+    "static/media/January2021.pdf": "/static/media/January2021.f293d808dc8a4d137182.pdf",
+    "static/media/January-2022-Newsletter.pdf": "/static/media/January-2022-Newsletter.9302a59dad669be18abe.pdf",
+    "static/media/May-2022-Newsletter.pdf": "/static/media/May-2022-Newsletter.264756a6a3beafee9eb8.pdf",
+    "static/media/goals.jpg": "/static/media/goals.0982fd48bd7b687da71e.jpg",
+    "static/media/farmsaLogo.png": "/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
+    "static/media/resumeCritique.webp": "/static/media/resumeCritique.5bfb9285412869ae22ce.webp",
+    "static/media/akshat.jpg": "/static/media/akshat.caa7d1946c8af835042d.jpg",
+    "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
+    "static/media/background.jpg": "/static/media/background.be83034d1738310d3157.jpg",
+    "index.html": "/index.html",
+    "main.6ced06bd.css.map": "/static/css/main.6ced06bd.css.map",
+    "main.2b841449.js.map": "/static/js/main.2b841449.js.map"
   },
   "entrypoints": [
-    "static/css/main.903d7d8e.css",
-    "static/js/main.f65c92f4.js"
+    "static/css/main.6ced06bd.css",
+    "static/js/main.2b841449.js"
   ]
 }
