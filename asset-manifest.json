@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Farmsa-Website/static/css/main.903d7d8e.css",
-    "main.js": "/Farmsa-Website/static/js/main.54678eb3.js",
+    "main.js": "/Farmsa-Website/static/js/main.61d149ed.js",
     "static/media/May2021.pdf": "/Farmsa-Website/static/media/May2021.2d6ac8d63d2deca15f85.pdf",
     "static/media/February-2022-Newsletter.pdf": "/Farmsa-Website/static/media/February-2022-Newsletter.0a6eb950d5aacd5290de.pdf",
     "static/media/September2021.pdf": "/Farmsa-Website/static/media/September2021.15eac32157da6dc7a62f.pdf",
@@ -18,10 +18,10 @@
     "static/media/background.jpg": "/Farmsa-Website/static/media/background.be83034d1738310d3157.jpg",
     "index.html": "/Farmsa-Website/index.html",
     "main.903d7d8e.css.map": "/Farmsa-Website/static/css/main.903d7d8e.css.map",
-    "main.54678eb3.js.map": "/Farmsa-Website/static/js/main.54678eb3.js.map"
+    "main.61d149ed.js.map": "/Farmsa-Website/static/js/main.61d149ed.js.map"
   },
   "entrypoints": [
     "static/css/main.903d7d8e.css",
-    "static/js/main.54678eb3.js"
+    "static/js/main.61d149ed.js"
   ]
 }
