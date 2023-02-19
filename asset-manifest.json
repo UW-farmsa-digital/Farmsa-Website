@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Farmsa-Website/static/css/main.16a4e3cf.css",
-    "main.js": "/Farmsa-Website/static/js/main.4a2c065d.js",
+    "main.css": "/Farmsa-Website/static/css/main.b2d7242f.css",
+    "main.js": "/Farmsa-Website/static/js/main.8ff58d0e.js",
     "static/media/May2019.pdf": "/Farmsa-Website/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/Farmsa-Website/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/Farmsa-Website/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -37,6 +37,7 @@
     "static/media/background.jpg": "/Farmsa-Website/static/media/background.32709abfc804059d30ce.jpg",
     "static/media/background4.jpg": "/Farmsa-Website/static/media/background4.1f7909b71f9f2dce067f.jpg",
     "static/media/goals.jpg": "/Farmsa-Website/static/media/goals.0982fd48bd7b687da71e.jpg",
+    "static/media/pdfs.jpg": "/Farmsa-Website/static/media/pdfs.3473912ba42e82fa2089.jpg",
     "static/media/background2.jpg": "/Farmsa-Website/static/media/background2.4263dbb4aa2579b47ede.jpg",
     "static/media/farmsaLogo.png": "/Farmsa-Website/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
     "static/media/bot.webp": "/Farmsa-Website/static/media/bot.64e6dbe012de7656a232.webp",
@@ -44,11 +45,11 @@
     "static/media/akshat.jpg": "/Farmsa-Website/static/media/akshat.caa7d1946c8af835042d.jpg",
     "static/media/farmsaBack.webp": "/Farmsa-Website/static/media/farmsaBack.4680a6847c4b56156266.webp",
     "index.html": "/Farmsa-Website/index.html",
-    "main.16a4e3cf.css.map": "/Farmsa-Website/static/css/main.16a4e3cf.css.map",
-    "main.4a2c065d.js.map": "/Farmsa-Website/static/js/main.4a2c065d.js.map"
+    "main.b2d7242f.css.map": "/Farmsa-Website/static/css/main.b2d7242f.css.map",
+    "main.8ff58d0e.js.map": "/Farmsa-Website/static/js/main.8ff58d0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.16a4e3cf.css",
-    "static/js/main.4a2c065d.js"
+    "static/css/main.b2d7242f.css",
+    "static/js/main.8ff58d0e.js"
   ]
 }
