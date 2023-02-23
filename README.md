@@ -1,14 +1,36 @@
-# Getting Started with Create React App
+# Project Information
+### This is the repository for the FARM Student Association Official Website
+The website is currently hosted at https://www.uwfarmsa.com using GitHub Pages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Our Problem
+The old deprecated website was built on wix and was hosted at https://waterloofarmsa.wixsite.com/mysite previously. This website was outdated, buggy and required a heavy uplift in both functionality and user interface. The new website created using HTML, CSS, Javascript, React.js and Node was established due to the customizability that true code offered over the previous Wix website. The new website was built from the ground up to satisfy FARMSA's new requirements.
 
-## Available Scripts
+## Page Requirements
+- Home: This page is the main landing page, includes social media icons to connect with FARMSA
+- About: Learn more about what FARMSA does and why you may want to join
+- Resources: Previous and current FARMSA newsletters
+- Our Team: Learn about the members that make FARMSA possible
+- Constitution: This is required information
+- Events: Find out about FARMSA's past and upcoming events
+- Contact: Get in touch with someone at FARMSA
 
-In the project directory, you can run:
+
+## Our Technologies
+
+- Domain Management: Wix
+- Hosting: GitHub Pages
+- Email Provider: Google
+
+#### Check it out at https://www.uwfarmsa.com
+
+---
+
+# Developer Information
+To run this project locally. In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This will run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -27,44 +49,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `npm run deploy`
 
-### `npm run eject`
+Deploys the app to GitHub pages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Make sure to update the domain name through github to the custom domain.
