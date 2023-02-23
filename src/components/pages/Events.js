@@ -47,7 +47,7 @@ export default function Events() {
                 <h4>This is a great opportunity to network with the team and other students who share an interest in finance.</h4>
                 <h4>Students of all programs and years are welcome!</h4>
                 <div className='register'>
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6EEoqjtuO4ztU2lWyKtuzUgDWHNNxO7oxsgn1lFD_uY71Vw/viewform"> Register </a>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6EEoqjtuO4ztU2lWyKtuzUgDWHNNxO7oxsgn1lFD_uY71Vw/viewform"> Resources </a>
                 </div>
               </div>
             </div>

@@ -66,6 +66,41 @@
     padding-top: 1%;
 }
 
+.events-page {
+    width: 18%;
+    margin-top: 5%;
+}
+
+.events-page a{
+    border: 1px solid black;
+    background-color: white;
+    padding: 6% 8%;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+    margin:0 auto;
+    font-size: 20px;
+    color: rgb(56, 55, 55);
+}
+
+.events-page:hover a{
+    background-color: rgb(56, 55, 55);
+    color: white;
+}
+
+.events-img {
+    width: 100%;
+}
+
+.events-img img {
+    width: 30%;
+    height: 200px;
+    margin: 1%;
+}
+
+.events-img img:hover {
+    transform: scale(1.5);
+}
 
 @media screen and (max-width: 800px) {
     .about-row-title {

@@ -1,6 +1,9 @@
 import React from 'react';
 import './AboutUs.css';
-import profile from './images/goals.jpg';
+import event1 from './images/event1.jpg';
+import event2 from './images/event2.jpg';
+import event3 from './images/event3.jpg';
+import event4 from './images/event4.jpg';
 
 export default function AboutUs() {
   return (
@@ -36,6 +39,23 @@ export default function AboutUs() {
             <li><b>Speaker Sessions:</b> CFA and PRM speakers are invited to talk about their experiences as a CFA or PRM.</li>
             <li><b>Study Resources:</b> Study materials for the CFA examination as well as monthly Financial Posts are available in the office.</li>
           </ol>
+        </div>
+        <div class="about-row">
+          <h2>Events Benefits</h2>
+        </div>
+        <div class="about-row">
+          <p>UW FARMSA offers a variety of tutorials and employer information sessions, for students looking to obtain professional designations or seeking a career in financial analysis and risk management. We also provide numerous social events to help students build networks within the FARM community.</p>
+          <div className='events-page'>
+            <a href='#/events'>Learn More</a>
+          </div>
+        </div>
+        <div class="about-row">
+          <div className='events-img'>
+            <img src={event1}/>
+            <img src={event2}/>
+            <img src={event3}/>
+            <img src={event4}/>
+          </div>
         </div>
       </div>
     </>
