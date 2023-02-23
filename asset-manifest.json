@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a2d23978.css",
-    "main.js": "/static/js/main.11a51ae2.js",
+    "main.js": "/static/js/main.bb5f8a2e.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -81,10 +81,10 @@
     "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
     "index.html": "/index.html",
     "main.a2d23978.css.map": "/static/css/main.a2d23978.css.map",
-    "main.11a51ae2.js.map": "/static/js/main.11a51ae2.js.map"
+    "main.bb5f8a2e.js.map": "/static/js/main.bb5f8a2e.js.map"
   },
   "entrypoints": [
     "static/css/main.a2d23978.css",
-    "static/js/main.11a51ae2.js"
+    "static/js/main.bb5f8a2e.js"
   ]
 }
