@@ -23,6 +23,29 @@ The old deprecated website was built on wix and was hosted at https://waterloofa
 
 #### Check it out at https://www.uwfarmsa.com
 
+## Project Structure
+
+**Page One: The Homepage (Landing)**
+
+<img width="947" alt="FarmsaHome" src="https://user-images.githubusercontent.com/25667597/225078744-182308a9-d5c0-46ae-97ef-9e368654ee1f.PNG">
+
+**Page Two: About Us (About)**
+
+<img width="907" alt="FarmsaAbout" src="https://user-images.githubusercontent.com/25667597/225080699-f052ffac-4d55-4c75-ac8c-0d6dfde001e0.PNG">
+
+**Page Three: Events (Events)**
+
+<img width="949" alt="FarmsaEvents" src="https://user-images.githubusercontent.com/25667597/225081142-ffadd188-1035-4278-99ea-463c005c2afe.PNG">
+
+**Page Four: Resources & Newsletters (Resources)**
+
+<img width="947" alt="FarmsaResources" src="https://user-images.githubusercontent.com/25667597/225081626-dd838796-29fa-48f6-8cf3-21dd862bbe8f.PNG">
+
+
+**Search Engine Optimization: Google**
+
+<img width="688" alt="FarmsaSEO" src="https://user-images.githubusercontent.com/25667597/225080024-138a22d8-bb44-442b-a5e6-5553fd57122d.PNG">
+
 ---
 
 # Developer Information
