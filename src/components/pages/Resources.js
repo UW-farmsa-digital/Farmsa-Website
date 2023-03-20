@@ -6,7 +6,7 @@ import jan2021 from './pdfs/January2021.pdf';
 import jan2020 from './pdfs/January2020.pdf';
 import jan2019 from './pdfs/January2019.pdf';
 import jan2018 from './pdfs/January2018.pdf';
-import feb2023 from './pdfs/February2023.pdf';
+import jan2023 from './pdfs/January2023.pdf';
 import feb2022 from './pdfs/February-2022-Newsletter.pdf';
 import feb2021 from './pdfs/February2021.pdf';
 import feb2019 from './pdfs/February2019.pdf';
@@ -38,7 +38,7 @@ import jan2021Cover from './resourcesImages/January2021.png';
 import jan2020Cover from './resourcesImages/January2020.png';
 import jan2019Cover from './resourcesImages/January2019.png';
 import jan2018Cover from './resourcesImages/January2018.png';
-import feb2023Cover from './resourcesImages/February2023.png';
+import jan2023Cover from './resourcesImages/January2023.png';
 import feb2022Cover from './resourcesImages/February2022.png';
 import feb2021Cover from './resourcesImages/February2021.png';
 import feb2019Cover from './resourcesImages/February2019.png';
@@ -83,10 +83,10 @@ export default function Resources() {
           <div class="resources-column">
               <div class="resources-card">
                 <div class="resources-img" >
-                  <img src={feb2023Cover} />
+                  <img src={jan2023Cover} />
                 </div>
                 <div class="resources-link">
-                  <a href={feb2023} target='_blank'>February 2023</a>
+                  <a href={jan2023} target='_blank'>January 2023</a>
                 </div>            
               </div>
             </div>
