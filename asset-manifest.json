@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26856dbc.css",
-    "main.js": "/static/js/main.40074c7c.js",
+    "main.js": "/static/js/main.56d9037f.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -31,11 +31,17 @@
     "static/media/event1.jpg": "/static/media/event1.4cc27c48c11df9877b56.jpg",
     "static/media/March2019.pdf": "/static/media/March2019.7214d31f3a17a16b7ccb.pdf",
     "static/media/October2018.pdf": "/static/media/October2018.3d1d87fab774ac381257.pdf",
+    "static/media/October2023.pdf": "/static/media/October2023.1434f4d9d165e37988dd.pdf",
     "static/media/September2019.pdf": "/static/media/September2019.b3519e9b7abff89e6d49.pdf",
     "static/media/October2019.pdf": "/static/media/October2019.7cb87412b61729f2877c.pdf",
     "static/media/November2019.pdf": "/static/media/November2019.9d3e19ee66c9296aa038.pdf",
     "static/media/September2018.pdf": "/static/media/September2018.a79573a0fc59264249cd.pdf",
+    "static/media/November2023.pdf": "/static/media/November2023.c92c2ff94bd26e56b96a.pdf",
     "static/media/January2023.pdf": "/static/media/January2023.8a107ea97e4279635f5b.pdf",
+    "static/media/September2023.pdf": "/static/media/September2023.e6f6ecd6abbc9f2dd833.pdf",
+    "static/media/November2023.png": "/static/media/November2023.9a3a2c6d2f4679d1d635.png",
+    "static/media/September2023.png": "/static/media/September2023.ebc3eb0351018c52f5d0.png",
+    "static/media/October2023.png": "/static/media/October2023.6e95ed62084b41b947b9.png",
     "static/media/July2019.png": "/static/media/July2019.ca3bad5ad292bab90f4c.png",
     "static/media/May2019.png": "/static/media/May2019.86034025f1e7bc92c740.png",
     "static/media/June2019.png": "/static/media/June2019.379ba3b5432c8b132f22.png",
@@ -83,10 +89,10 @@
     "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
     "index.html": "/index.html",
     "main.26856dbc.css.map": "/static/css/main.26856dbc.css.map",
-    "main.40074c7c.js.map": "/static/js/main.40074c7c.js.map"
+    "main.56d9037f.js.map": "/static/js/main.56d9037f.js.map"
   },
   "entrypoints": [
     "static/css/main.26856dbc.css",
-    "static/js/main.40074c7c.js"
+    "static/js/main.56d9037f.js"
   ]
 }
