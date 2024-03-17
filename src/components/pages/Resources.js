@@ -26,13 +26,16 @@ import sept2021 from './pdfs/September2021.pdf';
 import sept2020 from './pdfs/September2020.pdf';
 import sept2019 from './pdfs/September2019.pdf';
 import sept2018 from './pdfs/September2018.pdf';
+import sept2023 from './pdfs/September2023.pdf';
 import oct2021 from './pdfs/October2021.pdf';
 import oct2020 from './pdfs/October2020.pdf';
 import oct2019 from './pdfs/October2019.pdf';
 import oct2018 from './pdfs/October2018.pdf';
+import oct2023 from './pdfs/October2023.pdf';
 import nov2020 from './pdfs/November2020.pdf';
 import nov2019 from './pdfs/November2019.pdf';
 import nov2018 from './pdfs/November2018.pdf';
+import nov2023 from './pdfs/November2023.pdf';
 import jan2022Cover from './resourcesImages/January2022.png';
 import jan2021Cover from './resourcesImages/January2021.png';
 import jan2020Cover from './resourcesImages/January2020.png';
@@ -54,14 +57,17 @@ import june2019Cover from './resourcesImages/June2019.png';
 import june2018Cover from './resourcesImages/June2018.png';
 import july2020Cover from './resourcesImages/July2020.png';
 import july2019Cover from './resourcesImages/July2019.png';
+import sept2023Cover from './resourcesImages/September2023.png';
 import sept2021Cover from './resourcesImages/September2021.png';
 import sept2020Cover from './resourcesImages/September2020.png';
 import sept2019Cover from './resourcesImages/September2019.png';
 import sept2018Cover from './resourcesImages/September2018.png';
+import oct2023Cover from './resourcesImages/October2023.png';
 import oct2021Cover from './resourcesImages/October2021.png';
 import oct2020Cover from './resourcesImages/October2020.png';
 import oct2019Cover from './resourcesImages/October2019.png';
 import oct2018Cover from './resourcesImages/October2018.png';
+import nov2023Cover from './resourcesImages/November2023.png';
 import nov2020Cover from './resourcesImages/November2020.png';
 import nov2019Cover from './resourcesImages/November2019.png';
 import nov2018Cover from './resourcesImages/November2018.png';
@@ -79,17 +85,51 @@ export default function Resources() {
           <div class="resources-row">
             <h2>Newsletters 2023</h2>
           </div>
-          <div class="resources-row">
-          <div class="resources-column">
+          <div className="resources-row">
+            <div class="resources-column">
               <div class="resources-card">
                 <div class="resources-img" >
                   <img src={jan2023Cover} />
                 </div>
                 <div class="resources-link">
                   <a href={jan2023} target='_blank'>January 2023</a>
-                </div>            
+                </div>
               </div>
             </div>
+
+            <div className="resources-column">
+              <div className="resources-card">
+                <div className="resources-img" >
+                  <img src={sept2023Cover} />
+                </div>
+                <div className="resources-link">
+                  <a href={sept2023} target='_blank'>September 2023</a>
+                </div>
+              </div>
+            </div>
+
+            <div className="resources-column">
+              <div className="resources-card">
+                <div className="resources-img" >
+                  <img src={oct2023Cover} />
+                </div>
+                <div className="resources-link">
+                  <a href={oct2023} target='_blank'>October 2023</a>
+                </div>
+              </div>
+            </div>
+
+            <div className="resources-column">
+              <div className="resources-card">
+                <div className="resources-img" >
+                  <img src={nov2023Cover} />
+                </div>
+                <div className="resources-link">
+                  <a href={nov2023} target='_blank'>November 2023</a>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
 
