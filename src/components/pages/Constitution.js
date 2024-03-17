@@ -6,7 +6,7 @@ export default function Constitution() {
   return (
     <>
       <div className='content'>
-        <div class="constitution-row">
+        <div class="constitution-row-title">
           <h1>Constitution</h1>
         </div>
         <div class="constitution-row">
