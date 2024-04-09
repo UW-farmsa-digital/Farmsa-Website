@@ -19,6 +19,7 @@ export default function Home() {
             <SocialIcon classname='icons' url="https://discord.gg/tZvS3qbS" network="discord" style={{ margin: 5}}/>
             <SocialIcon classname='icons' url="https://twitter.com/uwfarmsa?lang=en" network="twitter" style={{ margin: 5}}/>
             <SocialIcon classname='icons' url="https://www.linkedin.com/company/uwfarmsa/" network="linkedin" style={{ margin: 5}}/>
+            <SocialIcon classname='icons' url="mailto:waterloo.farmsa@gmail.com" network="email" style={{ margin: 5}}/>
           </div>
         </div>
     </>
