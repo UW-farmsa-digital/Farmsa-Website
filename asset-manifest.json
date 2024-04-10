@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3d50ca01.css",
-    "main.js": "/static/js/main.32ce07bb.js",
+    "main.js": "/static/js/main.39e44044.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -52,6 +52,7 @@
     "static/media/February2022.png": "/static/media/February2022.eb8d67b51c4d28e2465d.png",
     "static/media/November2020.png": "/static/media/November2020.978b9cd9dd3c32f29cc5.png",
     "static/media/May2020.png": "/static/media/May2020.3c2403eedb6e7d57b23f.png",
+    "static/media/Jacob.jpg": "/static/media/Jacob.32beb5d2948a1ba287be.jpg",
     "static/media/June2020.png": "/static/media/June2020.b74b8f3266f8c93c1fd1.png",
     "static/media/July2020.png": "/static/media/July2020.a7244083b9743ad8b9d2.png",
     "static/media/October2020.png": "/static/media/October2020.7c54a8222db56eb315a0.png",
@@ -68,6 +69,7 @@
     "static/media/November2019.png": "/static/media/November2019.ce16fa5067cee90dc8e9.png",
     "static/media/event3.jpg": "/static/media/event3.84d41a20ae93f16ca873.jpg",
     "static/media/event4.jpg": "/static/media/event4.20769482cad36cf53642.jpg",
+    "static/media/Akam_1.jpg": "/static/media/Akam_1.d521e12a7f00f0ab1071.jpg",
     "static/media/June2018.png": "/static/media/June2018.02e4ecae407ee3b57eae.png",
     "static/media/May2018.png": "/static/media/May2018.5178442b2bd68b1f9a4d.png",
     "static/media/January2018.png": "/static/media/January2018.84d10c58f15f8e5ec642.png",
@@ -83,6 +85,7 @@
     "static/media/pdfs.jpg": "/static/media/pdfs.3473912ba42e82fa2089.jpg",
     "static/media/background2.jpg": "/static/media/background2.4263dbb4aa2579b47ede.jpg",
     "static/media/farmsaLogo.png": "/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
+    "static/media/Nelson.jpg": "/static/media/Nelson.9fde265e9b48e856c45d.jpg",
     "static/media/bot.webp": "/static/media/bot.64e6dbe012de7656a232.webp",
     "static/media/resumeCritique.webp": "/static/media/resumeCritique.5bfb9285412869ae22ce.webp",
     "static/media/akshat.jpg": "/static/media/akshat.caa7d1946c8af835042d.jpg",
@@ -90,10 +93,10 @@
     "static/media/profile-placeholder.jpg": "/static/media/profile-placeholder.0bfb883dddf5359d22bd.jpg",
     "index.html": "/index.html",
     "main.3d50ca01.css.map": "/static/css/main.3d50ca01.css.map",
-    "main.32ce07bb.js.map": "/static/js/main.32ce07bb.js.map"
+    "main.39e44044.js.map": "/static/js/main.39e44044.js.map"
   },
   "entrypoints": [
     "static/css/main.3d50ca01.css",
-    "static/js/main.32ce07bb.js"
+    "static/js/main.39e44044.js"
   ]
 }
