@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3d50ca01.css",
-    "main.js": "/static/js/main.39e44044.js",
+    "main.js": "/static/js/main.0b8f4ee9.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -22,6 +22,7 @@
     "static/media/January2018.pdf": "/static/media/January2018.f459317a2b42b05596a2.pdf",
     "static/media/February2018.pdf": "/static/media/February2018.045e1da1bdddf345954e.pdf",
     "static/media/May-2022-Newsletter.pdf": "/static/media/May-2022-Newsletter.264756a6a3beafee9eb8.pdf",
+    "static/media/Katherine.png": "/static/media/Katherine.22793cfb07abe9f769e1.png",
     "static/media/May2018.pdf": "/static/media/May2018.fab1b47f57f6e91843f2.pdf",
     "static/media/June2018.pdf": "/static/media/June2018.74dcb79ab465712087ff.pdf",
     "static/media/February2019.pdf": "/static/media/February2019.886084db5973ab694c20.pdf",
@@ -34,6 +35,7 @@
     "static/media/October2023.pdf": "/static/media/October2023.1434f4d9d165e37988dd.pdf",
     "static/media/September2019.pdf": "/static/media/September2019.b3519e9b7abff89e6d49.pdf",
     "static/media/October2019.pdf": "/static/media/October2019.7cb87412b61729f2877c.pdf",
+    "static/media/Enoch.jpg": "/static/media/Enoch.da4b0c92cd2b3630b00e.jpg",
     "static/media/November2019.pdf": "/static/media/November2019.9d3e19ee66c9296aa038.pdf",
     "static/media/September2018.pdf": "/static/media/September2018.a79573a0fc59264249cd.pdf",
     "static/media/November2023.pdf": "/static/media/November2023.c92c2ff94bd26e56b96a.pdf",
@@ -52,7 +54,6 @@
     "static/media/February2022.png": "/static/media/February2022.eb8d67b51c4d28e2465d.png",
     "static/media/November2020.png": "/static/media/November2020.978b9cd9dd3c32f29cc5.png",
     "static/media/May2020.png": "/static/media/May2020.3c2403eedb6e7d57b23f.png",
-    "static/media/Jacob.jpg": "/static/media/Jacob.32beb5d2948a1ba287be.jpg",
     "static/media/June2020.png": "/static/media/June2020.b74b8f3266f8c93c1fd1.png",
     "static/media/July2020.png": "/static/media/July2020.a7244083b9743ad8b9d2.png",
     "static/media/October2020.png": "/static/media/October2020.7c54a8222db56eb315a0.png",
@@ -69,8 +70,11 @@
     "static/media/November2019.png": "/static/media/November2019.ce16fa5067cee90dc8e9.png",
     "static/media/event3.jpg": "/static/media/event3.84d41a20ae93f16ca873.jpg",
     "static/media/event4.jpg": "/static/media/event4.20769482cad36cf53642.jpg",
-    "static/media/Akam_1.jpg": "/static/media/Akam_1.d521e12a7f00f0ab1071.jpg",
+    "static/media/Arshiya.jpg": "/static/media/Arshiya.9bbc7222952db0add475.jpg",
+    "static/media/Agamdeep.png": "/static/media/Agamdeep.85545b45fffa127b04dc.png",
+    "static/media/Victoria.png": "/static/media/Victoria.06df0ed1bbb7aba22341.png",
     "static/media/June2018.png": "/static/media/June2018.02e4ecae407ee3b57eae.png",
+    "static/media/Chuhan.png": "/static/media/Chuhan.07ef44fa5944af7ab01a.png",
     "static/media/May2018.png": "/static/media/May2018.5178442b2bd68b1f9a4d.png",
     "static/media/January2018.png": "/static/media/January2018.84d10c58f15f8e5ec642.png",
     "static/media/September2018.png": "/static/media/September2018.8b8305ea71e98aae54bc.png",
@@ -79,13 +83,14 @@
     "static/media/January2019.png": "/static/media/January2019.e40f588d591df5709fc9.png",
     "static/media/February2019.png": "/static/media/February2019.0537d2aacd48455e12a3.png",
     "static/media/March2019.png": "/static/media/March2019.ff1b3c56d3c13a69370c.png",
+    "static/media/Amrit.png": "/static/media/Amrit.43bf593548a18dc57fc6.png",
     "static/media/background4.jpg": "/static/media/background4.1f7909b71f9f2dce067f.jpg",
     "static/media/February2018.png": "/static/media/February2018.1662a97e23063f916e51.png",
     "static/media/goals.jpg": "/static/media/goals.0982fd48bd7b687da71e.jpg",
     "static/media/pdfs.jpg": "/static/media/pdfs.3473912ba42e82fa2089.jpg",
     "static/media/background2.jpg": "/static/media/background2.4263dbb4aa2579b47ede.jpg",
     "static/media/farmsaLogo.png": "/static/media/farmsaLogo.cd90b75ccdc6429451f8.png",
-    "static/media/Nelson.jpg": "/static/media/Nelson.9fde265e9b48e856c45d.jpg",
+    "static/media/Daniel.jpg": "/static/media/Daniel.86eb1c4c32b80d9ebe45.jpg",
     "static/media/bot.webp": "/static/media/bot.64e6dbe012de7656a232.webp",
     "static/media/resumeCritique.webp": "/static/media/resumeCritique.5bfb9285412869ae22ce.webp",
     "static/media/akshat.jpg": "/static/media/akshat.caa7d1946c8af835042d.jpg",
@@ -93,10 +98,10 @@
     "static/media/profile-placeholder.jpg": "/static/media/profile-placeholder.0bfb883dddf5359d22bd.jpg",
     "index.html": "/index.html",
     "main.3d50ca01.css.map": "/static/css/main.3d50ca01.css.map",
-    "main.39e44044.js.map": "/static/js/main.39e44044.js.map"
+    "main.0b8f4ee9.js.map": "/static/js/main.0b8f4ee9.js.map"
   },
   "entrypoints": [
     "static/css/main.3d50ca01.css",
-    "static/js/main.39e44044.js"
+    "static/js/main.0b8f4ee9.js"
   ]
 }
