@@ -10,6 +10,7 @@ import KatherineProfile from './images/Katherine.png';
 import AmritProfile from './images/Amrit.png';
 import VictoriaProfile from './images/Victoria.png';
 import EnochProfile from './images/Enoch.jpg';
+import ScarlettProfile from './images/Scarlett.jpg';
 
 export default function Team() {
   return (
@@ -134,6 +135,21 @@ export default function Team() {
                 </div>
                 <h3>Katherine Aryawan</h3>
                 <p>Technology VP</p>
+                <div className="icons">
+                    <i className="fab fa-linkedin"></i>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="column">
+            <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+              <div className="card">
+                <div className="img-container">
+                  <img src={ScarlettProfile} />
+                </div>
+                <h3>Scarlett Xue</h3>
+                <p>Events VP</p>
                 <div className="icons">
                     <i className="fab fa-linkedin"></i>
                 </div>
