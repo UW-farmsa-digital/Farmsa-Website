@@ -1,6 +1,5 @@
 import React from 'react';
 import './Team.css';
-import profile from './images/akshat.jpg';
 import pfp from './images/profile-placeholder.jpg';
 import ChuhanProfile from './images/Chuhan.png';
 import AgamDeepProfile from './images/Agamdeep.png';
