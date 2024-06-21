@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3d50ca01.css",
-    "main.js": "/static/js/main.61aa0267.js",
+    "main.js": "/static/js/main.7d7a6878.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -69,6 +69,7 @@
     "static/media/September2019.png": "/static/media/September2019.f94171f638105cc43a15.png",
     "static/media/background.jpg": "/static/media/background.32709abfc804059d30ce.jpg",
     "static/media/November2019.png": "/static/media/November2019.ce16fa5067cee90dc8e9.png",
+    "static/media/Amrit.png": "/static/media/Amrit.1beee2f6a17c75ce9eac.png",
     "static/media/event3.jpg": "/static/media/event3.84d41a20ae93f16ca873.jpg",
     "static/media/event4.jpg": "/static/media/event4.20769482cad36cf53642.jpg",
     "static/media/Arshiya.jpg": "/static/media/Arshiya.9bbc7222952db0add475.jpg",
@@ -84,7 +85,6 @@
     "static/media/January2019.png": "/static/media/January2019.e40f588d591df5709fc9.png",
     "static/media/February2019.png": "/static/media/February2019.0537d2aacd48455e12a3.png",
     "static/media/March2019.png": "/static/media/March2019.ff1b3c56d3c13a69370c.png",
-    "static/media/Amrit.png": "/static/media/Amrit.43bf593548a18dc57fc6.png",
     "static/media/background4.jpg": "/static/media/background4.1f7909b71f9f2dce067f.jpg",
     "static/media/February2018.png": "/static/media/February2018.1662a97e23063f916e51.png",
     "static/media/goals.jpg": "/static/media/goals.0982fd48bd7b687da71e.jpg",
@@ -94,15 +94,14 @@
     "static/media/Daniel.jpg": "/static/media/Daniel.86eb1c4c32b80d9ebe45.jpg",
     "static/media/bot.webp": "/static/media/bot.64e6dbe012de7656a232.webp",
     "static/media/resumeCritique.webp": "/static/media/resumeCritique.5bfb9285412869ae22ce.webp",
-    "static/media/akshat.jpg": "/static/media/akshat.caa7d1946c8af835042d.jpg",
     "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
     "static/media/profile-placeholder.jpg": "/static/media/profile-placeholder.0bfb883dddf5359d22bd.jpg",
     "index.html": "/index.html",
     "main.3d50ca01.css.map": "/static/css/main.3d50ca01.css.map",
-    "main.61aa0267.js.map": "/static/js/main.61aa0267.js.map"
+    "main.7d7a6878.js.map": "/static/js/main.7d7a6878.js.map"
   },
   "entrypoints": [
     "static/css/main.3d50ca01.css",
-    "static/js/main.61aa0267.js"
+    "static/js/main.7d7a6878.js"
   ]
 }
