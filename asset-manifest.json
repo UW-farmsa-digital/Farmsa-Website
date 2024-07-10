@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d50ca01.css",
-    "main.js": "/static/js/main.7d7a6878.js",
+    "main.css": "/static/css/main.e3b14def.css",
+    "main.js": "/static/js/main.c428b23e.js",
     "static/media/May2019.pdf": "/static/media/May2019.5eb8a1e687448e132cfc.pdf",
     "static/media/June2019.pdf": "/static/media/June2019.50e1be375a5a54e7adee.pdf",
     "static/media/July2019.pdf": "/static/media/July2019.12651bff50cf3ee82095.pdf",
@@ -24,9 +24,14 @@
     "static/media/May-2022-Newsletter.pdf": "/static/media/May-2022-Newsletter.264756a6a3beafee9eb8.pdf",
     "static/media/Katherine.png": "/static/media/Katherine.22793cfb07abe9f769e1.png",
     "static/media/May2018.pdf": "/static/media/May2018.fab1b47f57f6e91843f2.pdf",
+    "static/media/20240703-MovieNight.png": "/static/media/20240703-MovieNight.1c568755c16b2c7d19bd.png",
+    "static/media/20240626-ScotiaInfoSes.png": "/static/media/20240626-ScotiaInfoSes.0121684a0d6cd41bea7c.png",
+    "static/media/20240531-IntWork3.png": "/static/media/20240531-IntWork3.6b048c36a2ad369a6bfc.png",
     "static/media/June2018.pdf": "/static/media/June2018.74dcb79ab465712087ff.pdf",
     "static/media/February2019.pdf": "/static/media/February2019.886084db5973ab694c20.pdf",
     "static/media/November2018.pdf": "/static/media/November2018.0b546f4cce00a69f5213.pdf",
+    "static/media/20240524-IntWork1.png": "/static/media/20240524-IntWork1.9c7d1ea6b955eb6efdbd.png",
+    "static/media/20240528-IntWork2.png": "/static/media/20240528-IntWork2.6fc05e27ee510d80950d.png",
     "static/media/January2019.pdf": "/static/media/January2019.c208141625454e191019.pdf",
     "static/media/background3.jpg": "/static/media/background3.a3921b185c7b80f74cea.jpg",
     "static/media/event1.jpg": "/static/media/event1.4cc27c48c11df9877b56.jpg",
@@ -34,6 +39,7 @@
     "static/media/October2018.pdf": "/static/media/October2018.3d1d87fab774ac381257.pdf",
     "static/media/October2023.pdf": "/static/media/October2023.1434f4d9d165e37988dd.pdf",
     "static/media/September2019.pdf": "/static/media/September2019.b3519e9b7abff89e6d49.pdf",
+    "static/media/20240510-ResumeMixer.png": "/static/media/20240510-ResumeMixer.57835347460740407532.png",
     "static/media/October2019.pdf": "/static/media/October2019.7cb87412b61729f2877c.pdf",
     "static/media/Enoch.jpg": "/static/media/Enoch.da4b0c92cd2b3630b00e.jpg",
     "static/media/November2019.pdf": "/static/media/November2019.9d3e19ee66c9296aa038.pdf",
@@ -97,11 +103,11 @@
     "static/media/farmsaBack.webp": "/static/media/farmsaBack.4680a6847c4b56156266.webp",
     "static/media/profile-placeholder.jpg": "/static/media/profile-placeholder.0bfb883dddf5359d22bd.jpg",
     "index.html": "/index.html",
-    "main.3d50ca01.css.map": "/static/css/main.3d50ca01.css.map",
-    "main.7d7a6878.js.map": "/static/js/main.7d7a6878.js.map"
+    "main.e3b14def.css.map": "/static/css/main.e3b14def.css.map",
+    "main.c428b23e.js.map": "/static/js/main.c428b23e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d50ca01.css",
-    "static/js/main.7d7a6878.js"
+    "static/css/main.e3b14def.css",
+    "static/js/main.c428b23e.js"
   ]
 }
