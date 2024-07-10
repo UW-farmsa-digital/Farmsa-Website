@@ -46,8 +46,17 @@
     font-family: 'Montserrat';
 }
 
+.events-row h3 {
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    color: #000000;
+    font-family: 'Montserrat';
+}
+
 .events-column {
     display: flex;
+    max-width: 100%;
     width: 100%;
     padding: 0 1em;
 }
@@ -61,6 +70,7 @@
     background-color: #ffffff;
     margin-top: 4%;
     display: flex;
+    width: 100%;
 }
 
 .events-card .events-img-container {
